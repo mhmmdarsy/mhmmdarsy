@@ -1,9 +1,10 @@
 ## Hi there !
 
----
+My name is Muhammad Arsy Al-Fahd. <br>
+I am a student majoring in information Systems at Mulawarman University. I'm currently in my fifth semester of college. I have a great interest in mobile development, more precisely Android. <br>
 
-## <p align="center">Tech Stack</p>
-<p align="center">
+## <p align="left">Tech Stack</p>
+<p align="left">
   <!-- Framework -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <!-- Languages -->
