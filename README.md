@@ -23,7 +23,7 @@ During my studies through the fifth semester, I have built a solid foundation in
 ## Github Statistic
 <p align="left"> 
   <a href="https://github.com/penuliscode">
-  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmmdarsy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmmdarsy&layout=compactlayout=compact&theme=midnight-purple&custom_title=Languages"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmmdarsy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmmdarsy&layout=compactlayout=compact&theme=midnight-purple&custom_title=Languages"/>
   </a>
 </p>
