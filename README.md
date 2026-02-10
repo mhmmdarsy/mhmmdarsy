@@ -23,7 +23,7 @@ Throughout my studies, I have built a strong foundation in HTML, CSS, JavaScript
 ## Github Statistic
 <p align="left"> 
   <a href="https://github.com/penuliscode">
-  <img height="280em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmmdarsy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="280em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmmdarsy&layout=compactlayout=compact&theme=midnight-purple&custom_title=Languages"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmmdarsy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmmdarsy&layout=compactlayout=compact&theme=midnight-purple&custom_title=Languages"/>
   </a>
 </p>
