@@ -1,9 +1,9 @@
 ## Hi there !
 
 My name is Muhammad Arsy Al-Fahd. <br>
-I’m a fifth-semester Information Systems student at Mulawarman University with a strong interest in modern web development, particularly in frontend and backend JavaScript ecosystems.<br>
+I’m a fifth-semester Information Systems student at Mulawarman University with a strong interest in web development, particularly in frontend and backend JavaScript ecosystems.<br>
 
-Throughout my studies, I have built a strong foundation in HTML, CSS, JavaScript, PHP, and MySQL. I currently focus on modern web development using React, Node.js, and Tailwind CSS, and I strengthen these skills through academic projects and hands-on development work. Looking ahead, I’m committed to advancing my technical expertise and contributing to impactful web-based solutions.<br>
+Throughout my studies, I have built a strong foundation in HTML, CSS, JavaScript, PHP, and MySQL. I currently focus on web development using React, Node.js, and Tailwind CSS, and I strengthen these skills through academic projects and hands-on development work. Looking ahead, I’m committed to advancing my technical expertise and contributing to impactful web-based solutions.<br>
 
 ## <p align="left">Tech Stack</p>
 <p align="left">
