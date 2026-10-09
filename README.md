@@ -1,6 +1,4 @@
 ## tech nerd
-
-## <p align="left">Tech Stack</p>
 <p align="left">
   <!-- Framework -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -15,7 +13,7 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## Github Statistic
+## Statistic
 <p align="left"> 
   <a href="https://github.com/penuliscode">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmmdarsy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
