@@ -10,10 +10,3 @@
   <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> -->
   <!-- <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
 </p>
-
-<!-- <p align="left"> 
-  <a href="https://github.com/penuliscode">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmmdarsy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmmdarsy&layout=compactlayout=compact&theme=midnight-purple&custom_title=Languages"/>
-  </a>
-</p> -->
